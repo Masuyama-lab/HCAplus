@@ -5,7 +5,7 @@
 
 HCA+ is proposed in:
 
-N. Masuyama, Y. Nojima, F. Dawood, and Z. Liu, "A growing hierarchical clustering algorithm via parameter-free adaptive resonance theory," in Proc. of 2024 International Joint Conference on Neural Networks (IJCNN), 2024.
+K. Tashiro, N. Masuyama, and Y. Nojima, "A growing hierarchical clustering algorithm via parameter-free adaptive resonance theory," in Proc. of 2024 International Joint Conference on Neural Networks (IJCNN), 2024.
 
 Run "main_HCAplus.m"
 
